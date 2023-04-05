@@ -1,7 +1,12 @@
 0x0E. Web stack debugging #1
+
+
 By Sylvain Kalache
+
 Weight: 1
+
 Project over - took place from 
+
 Concepts
 For this project, students are expected to look at these concepts:
 
