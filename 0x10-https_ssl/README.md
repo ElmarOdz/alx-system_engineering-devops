@@ -16,7 +16,7 @@ Security
  
  An auto review will be launched at the deadline
  
-Concepts
+Concepts.
 
 For this project, we expect you to look at these concepts:
 
