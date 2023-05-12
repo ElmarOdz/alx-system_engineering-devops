@@ -15,22 +15,21 @@ Issue Summary (that is often what executives will read) must contain:
 
 - when was the issue detected
 - how was the issue detected (monitoring alert, an engineer noticed something, a customer complained…)
-
-actions taken (what parts of the system were investigated, what were the assumption on the root cause of the issue)
-misleading investigation/debugging paths that were taken
-which team/individuals was the incident escalated to
-how the incident was resolved
+- actions taken (what parts of the system were investigated, what were the assumption on the root cause of the issue)
+- misleading investigation/debugging paths that were taken
+- which team/individuals was the incident escalated to
+- how the incident was resolved
 
 ## Root cause and resolution must contain:
 
-explain in detail what was causing the issue
-explain in detail how the issue was fixed
+- explain in detail what was causing the issue
+- explain in detail how the issue was fixed
 
 ## Corrective and preventative measures must contain:
 
-what are the things that can be improved/fixed (broadly speaking)
-a list of tasks to address the issue (be very specific, like a TODO, example: patch Nginx server, add monitoring on server memory…)
-Be brief and straight to the point, between 400 to 600 words
+- what are the things that can be improved/fixed (broadly speaking)
+- a list of tasks to address the issue (be very specific, like a TODO, example: patch Nginx server, add monitoring on server memory…)
+- Be brief and straight to the point, between 400 to 600 words
 
 While postmortem format can vary, stick to this one so that you can get properly reviewed by your peers.
 
